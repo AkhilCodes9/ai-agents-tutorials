@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-classic
+langchain-google-genai
+langchain-core
+wikipedia
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
+ddgs
